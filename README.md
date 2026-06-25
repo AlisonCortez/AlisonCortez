@@ -1,61 +1,59 @@
 <div align="center">
 
-# hey, soy Alison Cortez
+# ¡Hola, soy Alison Cortez! 👋
 
-**Desarrolladora Web · El Salvador**
-*Apasionada por crear soluciones digitales y aprender algo nuevo cada día.*
+**Desarrolladora Web & Diseñadora UI · El Salvador**
+*Combinando código limpio con diseño estético y profesional.*
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
-[![El Salvador](https://img.shields.io/badge/El_Salvador-🇸🇻-3C78D8?style=for-the-badge)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
+[![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)]()
 
 </div>
 
 ---
 
-## sobre mí
+## 🎨 Sobre mí
+Soy una apasionada por el desarrollo de software con un ojo clínico para el diseño. Mi enfoque es simple: **si el código funciona pero no se ve profesional, aún no está terminado.** Creo que la estética es parte fundamental de la experiencia de usuario.
 
-Me considero una desarrolladora en constante crecimiento, enfocada en escribir código limpio y eficiente. Disfruto enfrentarme a nuevos retos técnicos y colaborar en proyectos que tengan impacto real.
-
-- Creo firmemente en la documentación como pilar del buen desarrollo.
-- Me encanta el diseño de interfaces (UI) y cómo pequeñas interacciones mejoran la experiencia de usuario.
-- Actualmente estoy profundizando en el ecosistema de Backend con Node.js.
-- Si no estoy programando, probablemente estoy buscando el mejor café de la ciudad.
+- 🛠️ **Desarrollo:** Me encanta construir soluciones funcionales desde el backend hasta el frontend.
+- 🖌️ **Diseño:** Disfruto transformar ideas en interfaces visualmente atractivas utilizando Photoshop.
+- 💡 **Filosofía:** Busco el equilibrio perfecto entre la lógica de programación y la armonía visual.
+- 🚀 **Enfoque:** Cada proyecto que tomo es una oportunidad para entregar calidad, orden y un diseño impecable.
 
 ---
 
-## stack
+## 💻 Stack Tecnológico
 
-**Frontend**
+**Lenguajes de Programación**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+**Bases de Datos**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-**Herramientas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Diseño & Herramientas**
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## proyectos destacados
+## 🚀 Proyectos Destacados
 
-### Gestión de Tareas App
-> Una aplicación web para organizar el flujo de trabajo diario de equipos pequeños.
+### [Nombre de tu proyecto principal]
+> Una plataforma donde el diseño visual se encuentra con una arquitectura de datos sólida.
 
-Stack: `React` `Node.js` `PostgreSQL`
+Stack: `PHP` `MySQL` `Adobe Photoshop`
 
-Aprendí a gestionar estados complejos en el frontend y a diseñar APIs robustas desde el backend para conectar toda la aplicación.
+He aplicado mis conocimientos en gestión de bases de datos para optimizar la estructura de la información, mientras diseñaba una interfaz intuitiva y profesional en Photoshop para asegurar una excelente experiencia de usuario.
 
 ---
 
 <div align="center">
 
-*Gracias por visitar mi perfil. ¡Hagamos cosas increíbles juntos!*
+*Gracias por visitar mi espacio. ¡Creamos algo extraordinario!* ✨
 
 </div>
