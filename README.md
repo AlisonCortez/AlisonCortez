@@ -46,7 +46,7 @@ Soy una apasionada por el desarrollo de software con un ojo clínico para el dis
 ### V2K Studio 
 > Una plataforma donde el diseño visual se encuentra con una arquitectura de datos sólida.
 
-Stack: `WordPress` `MySQL`  `PhpMyAdmin` 
+Stack: `WordPress` `MySQL` `PhpMyAdmin` 
 
 He aplicado mis conocimientos en gestión de bases de datos para optimizar la estructura de la información, mientras diseñaba una interfaz intuitiva y profesional en WordPress para asegurar una excelente experiencia de usuario.
 
